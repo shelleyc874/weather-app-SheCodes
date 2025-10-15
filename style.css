@@ -1,4 +1,14 @@
+body {
+  background: #fff9f9;
+}
+
 h1 {
   text-align: center;
-  color: blue;
+  color: red;
+}
+
+img {
+  width: 25%;
+  margin: 0 auto;
+  display: block;
 }
